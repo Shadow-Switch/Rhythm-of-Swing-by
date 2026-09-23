@@ -1,5 +1,5 @@
 # RoSy — Rhythm of Swing-by
-[shadow-switch.github.io/Rhythm-of-Swing-by](https://shadow-switch.github.io/Rhythm-of-Swing-by/)
+[Shadow-Switch.github.io/Rhythm-of-Swing-by](https://Shadow-Switch.github.io/Rhythm-of-Swing-by/)
 
 <img width="396" height="197" alt="image" src="https://github.com/user-attachments/assets/42e559f6-75cf-4427-af38-67a142484cbd" />
 
