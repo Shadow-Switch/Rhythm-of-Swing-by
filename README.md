@@ -1,4 +1,5 @@
 # RoSy — Rhythm of Swing-by
+[shadow-switch.github.io/Rhythm-of-Swing-by](https://shadow-switch.github.io/Rhythm-of-Swing-by/)
 <img width="396" height="197" alt="image" src="https://github.com/user-attachments/assets/42e559f6-75cf-4427-af38-67a142484cbd" />
 
 RoSy는 **타이밍 + 궤도 + 스윙바이**를 핵심으로 하는 우주 항법 퍼즐 게임입니다. 로켓을 직접 조종하는 게임이 아닙니다. 지구의 자전을 보면서 "언제, 어느 방향으로, 얼마나 가속할지"를 정하고, 그 결과 만들어지는 궤도를 지켜보게 됩니다.
